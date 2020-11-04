@@ -2,15 +2,6 @@
 
 ✨ Another OneDrive Directory Index.
 
-[![Latest Stable Version](https://poser.pugx.org/wangningkai/olaindex/v/stable)](https://packagist.org/packages/wangningkai/olaindex)
-[![Latest Unstable Version](https://poser.pugx.org/wangningkai/olaindex/v/unstable)](//packagist.org/packages/wangningkai/olaindex)
-[![GitHub stars](https://img.shields.io/github/stars/WangNingkai/OLAINDEX.svg?style=flat-square)](https://github.com/WangNingkai/OLAINDEX/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/WangNingkai/OLAINDEX.svg?style=flat-square)](https://github.com/WangNingkai/OLAINDEX/network)
-[![GitHub license](https://img.shields.io/github/license/WangNingkai/OLAINDEX.svg?style=flat-square)](https://github.com/WangNingkai/OLAINDEX/blob/master/LICENSE)
-![Lint Code Base](https://github.com/WangNingkai/OLAINDEX/workflows/Lint%20Code%20Base/badge.svg?branch=5.0)
-![Laravel](https://github.com/WangNingkai/OLAINDEX/workflows/Laravel/badge.svg?branch=5.0)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=WangNingkai.OLAINDEX)
-
 
 > 👋 本项目受 oneindex 启发，借鉴其部分功能，在这里感谢。 项目持续开发，会加入更多功能，欢迎大家提交 issue.
 
@@ -28,13 +19,7 @@
 
 - [https://github.com/WangNingkai/OLAINDEX](https://github.com/WangNingkai/OLAINDEX)
 
-## 演示地址
 
-- [https://share.imwnk.cn](https://share.imwnk.cn)
-
-## 预览
-
-![预览](https://ojpoc641y.qnssl.com/FpR4_obUhswLJXCEBgKOV4Pz7qg3.png)
 
 ## 安装
 
